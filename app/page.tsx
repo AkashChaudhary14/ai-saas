@@ -2,8 +2,8 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-   <div>
-    <h1> Hello </h1>
+   <div className='text-green-500 text-3xl'>
+   Hello AI Replica
    </div>
   )
 }
